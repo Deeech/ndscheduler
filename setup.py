@@ -65,7 +65,7 @@ setup(
     long_description=open('README.md').read(),
     author='Nextdoor Engineering',
     author_email='eng@nextdoor.com',
-    url='https://github.com/Nextdoor/ndscheduler',
+    url='https://github.com/imubit/ndscheduler',
     download_url='http://pypi.python.org/pypi/ndscheduler#downloads',
     license='Apache License, Version 2',
     keywords='scheduler nextdoor cron python',
